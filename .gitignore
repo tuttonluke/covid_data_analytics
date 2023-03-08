@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+covid_data_analytics/project_files/exploratory_data_analysis.py
 
 # C extensions
 *.so
